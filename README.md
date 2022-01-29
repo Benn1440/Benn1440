@@ -1,4 +1,4 @@
-### Hi, 👋 I'm Benedict, a Frontend software developer.
+### Hi, 👋 I'm Benedict, a Frontend Developer.
 
 <!--
 **Benn1440/Benn1440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
