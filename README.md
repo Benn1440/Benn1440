@@ -1,16 +1,18 @@
-### Hi, 👋 I'm Benedict, a Software and Cloud Engineer.
+### Hi, 👋 I'm Benedict, a  Cloud and Software Engineer.
 
-<!--
+With adequate knowledge in information and communication technology, Committed to engaging new processes and continuous learning in the field of I.T, demonstrated hands-on experience working with Cloud Technologies provided by Microsoft Azure, Amazon Web Service(AWS), and the Google Cloud Platform(GCP).
+
 **Benn1440/Benn1440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on javaScript, REACT.js and improving my developer skills...
-- 🌱 I’m currently learning Scrimba...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently and continually working on Cloud Technologies, from Jenkins, Docker, Kubernetes, Ansible etc. whilst improving my developer skills...
+- 🌱 I’m currently learning Different Cloud Service Providers and the numerous services they render to help individuals and organizations operate seemlessly.
+- 👯 I’m looking to collaborate on Cloud and Software Projects.
+- 🤔 I’m looking for help with: Improving daily as an I.T Professional.
+- 💬 Ask me about: Emerging Technologies, Football and Good Music🎼.
+- 📫 How to reach me: Linkedi: https://www.linkedin.com/in/benedict-okafor/
+                       Twitter: https://twitter.com/NnanaBen 😉
+- 😄 Pronouns: HE/HIM.
+- ⚡ Fun fact: A devoted Machester United Fan. 😊❤
+
