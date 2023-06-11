@@ -13,10 +13,10 @@ With adequate knowledge in information and communication technology, Committed t
 
 - 💬 Ask me about: Emerging Technologies, Football and Good Music🎼.
 
-- 📫 How to reach me: Linkedi: https://www.linkedin.com/in/benedict-okafor/
+- 📫 How to reach me: Linkedin: https://www.linkedin.com/in/benedict-okafor/
                        Twitter: https://twitter.com/NnanaBen 😉
                        
-- 😄 Pronouns: HE/HIM.
+- 😄 Pronouns: HE/HIM/HIS.
 
 - ⚡ Fun fact: A devoted Machester United Fan. 😊❤
 
